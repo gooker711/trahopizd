@@ -1,0 +1,3 @@
+class pod():
+	token=''
+	idbots=[]
